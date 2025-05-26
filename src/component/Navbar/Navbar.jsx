@@ -48,7 +48,7 @@ export default function Navbar({items,locals}) {
           
           <div className="dropdown dropdown-hover">
 
- <span className="absolute left-10 bottom-7 font-bold">  {location.pathname === '/dashboard' || location.pathname.startsWith('/productDitails/') || locals.pathname === '/dashboard/carts' || location.pathname === '/dashboard/wishlist' ? items : ''}</span>
+ <span className="absolute left-10 bottom-7">  {location.pathname === '/dashboard' || location.pathname.startsWith('/productDitails/') || locals.pathname === '/dashboard/carts' || location.pathname === '/dashboard/wishlist' ? items : ''}</span>
   <div tabIndex={0} role="button" className="bg-white rounded-full py-5 px-3 btn borde border-gray-400 text-xl">
    <GiSelfLove />
   </div>

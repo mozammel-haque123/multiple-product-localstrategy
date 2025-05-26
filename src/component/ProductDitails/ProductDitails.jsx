@@ -22,7 +22,7 @@ export default function ProductDitails() {
      </div>
 
 
-    <div>
+    <div className="">
       {
      <ProductDitailsData product={ditails} id={id}></ProductDitailsData>
                      

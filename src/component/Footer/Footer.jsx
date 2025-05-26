@@ -1,7 +1,9 @@
+import { useLocation } from "react-router-dom"
 
 export default function Footer() {
+  const location = useLocation()
   return (
-  <footer className="bg-white p-6 py-10 mt-26">
+<footer className={`bg-white p-6 py-10 ${location.pathname.startsWith('/productDitails/') ? 'mt-[550px]' : 'mt-[104px]'}`}>
   <div className="text-center">
     <h1 className="font-bold text-4xl">Gadget Heaven</h1>
     <p className="font-medium text-base text-gray-500 my-4">Leading the way in cutting-edge technology and innovation.</p>
