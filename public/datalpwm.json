@@ -1,0 +1,281 @@
+[
+  {
+    "product_id": "laptop_001",
+    "product_title": "Dell Inspiron 15",
+    "product_image": "https://i.ibb.co/d0LhG3KL/fef7b3cbaeb59afc974ab04dd20741e6.jpg",
+    "category": "laptop",
+    "price": 599.99,
+    "description": "A budget-friendly laptop suitable for everyday tasks.",
+    "specification": ["15.6-inch FHD", "Intel Core i5", "8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "laptop_002",
+    "product_title": "HP Pavilion x360",
+    "product_image": "https://i.ibb.co/274tmD1n/9dd9ce7bf05711781bbc6a68adad5cca.jpg",
+    "category": "laptop",
+    "price": 749.99,
+    "description": "A versatile 2-in-1 laptop with touchscreen.",
+    "specification": ["14-inch Touchscreen", "Intel Core i7", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "laptop_003",
+    "product_title": "Lenovo ThinkPad E14",
+    "product_image": "https://i.ibb.co/6RkFrrdB/0c9ed4627fca6ee7c0f47d724dbfb9ca.jpg",
+    "category": "laptop",
+    "price": 679.00,
+    "description": "Business laptop with robust build quality.",
+    "specification": ["14-inch FHD", "AMD Ryzen 5", "8GB RAM", "512GB SSD"],
+    "availability": false,
+    "rating": 4.0
+  },
+  {
+    "product_id": "laptop_004",
+    "product_title": "ASUS VivoBook S15",
+    "product_image": "https://i.ibb.co/Kp3dgQg2/e2ec1376b14ed100b3c2c009b6a62942.jpg",
+    "category": "laptop",
+    "price": 729.99,
+    "description": "Slim and lightweight laptop with powerful performance.",
+    "specification": ["15.6-inch FHD", "Intel Core i7", "16GB RAM", "1TB SSD"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "laptop_005",
+    "product_title": "Acer Aspire 5",
+    "product_image": "https://i.ibb.co/JRw8TMNY/c58800c280a818d8540426f13bcb35c4.jpg",
+    "category": "laptop",
+    "price": 549.00,
+    "description": "Reliable laptop for students and professionals.",
+    "specification": ["15.6-inch", "Intel Core i5", "8GB RAM", "256GB SSD"],
+    "availability": false,
+    "rating": 3.9
+  },
+
+  {
+    "product_id": "phone_001",
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://i.ibb.co/Rp1SfhJN/72c0ad2d823b3f364ac5bfa4cc80b253.jpg",
+    "category": "phone",
+    "price": 799.99,
+    "description": "Flagship Samsung smartphone with top-tier performance.",
+    "specification": ["6.1-inch AMOLED", "Snapdragon 8 Gen 2", "8GB RAM", "128GB Storage"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "phone_002",
+    "product_title": "OnePlus 11",
+    "product_image": "https://i.ibb.co/hJ2PKBTK/6bbfff73277fcf4c83ad2ce49a6ee972.jpg",
+    "category": "phone",
+    "price": 699.00,
+    "description": "Smooth and fast Android experience.",
+    "specification": ["6.7-inch AMOLED", "Snapdragon 8 Gen 2", "16GB RAM", "256GB Storage"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "phone_003",
+    "product_title": "Google Pixel 7a",
+    "product_image": "https://i.ibb.co/c9ybrWQ/e8eadd0f98b4fe8b57b014d7f96e00dc.jpg",
+    "category": "phone",
+    "price": 499.00,
+    "description": "Google's best budget Pixel phone.",
+    "specification": ["6.1-inch OLED", "Google Tensor G2", "6GB RAM", "128GB Storage"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": "phone_004",
+    "product_title": "Xiaomi Redmi Note 12 Pro",
+    "product_image": "https://i.ibb.co/XrZw47Nm/b81922c6cd0d360e082af15a93bdd31b.jpg",
+    "category": "phone",
+    "price": 299.00,
+    "description": "Affordable phone with impressive specs.",
+    "specification": ["6.67-inch AMOLED", "MediaTek Dimensity 1080", "8GB RAM", "256GB Storage"],
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "product_id": "phone_005",
+    "product_title": "Realme Narzo 60",
+    "product_image": "https://i.ibb.co/W4Jw2Kbd/d7074e5e09ba47580a94d574f9725700.jpg",
+    "category": "phone",
+    "price": 199.99,
+    "description": "Entry-level phone with good battery life.",
+    "specification": ["6.43-inch AMOLED", "MediaTek Dimensity 6020", "6GB RAM", "128GB Storage"],
+    "availability": false,
+    "rating": 3.8
+  },
+
+  {
+    "product_id": "watch_001",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co/twmnNWgB/db8d83d9629b434d845533952fad3d65.jpg",
+    "category": "smart watch",
+    "price": 399.99,
+    "description": "Apple's latest smartwatch with health tracking.",
+    "specification": ["GPS", "Heart Rate Monitor", "Blood Oxygen", "Always-On Display"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "watch_002",
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co/PvCG8xrD/ad94fb6f8d328d37242319f051a173d7.jpg",
+    "category": "smart watch",
+    "price": 329.99,
+    "description": "Premium Android smartwatch with Wear OS.",
+    "specification": ["Wear OS", "ECG", "Body Composition", "GPS"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "watch_003",
+    "product_title": "Fitbit Versa 4",
+    "product_image": "https://i.ibb.co/CKYv5xQB/87601b4103396e2f8888e18df16eac4a.jpg",
+    "category": "smart watch",
+    "price": 199.95,
+    "description": "Fitness-focused smartwatch with long battery life.",
+    "specification": ["Heart Rate", "Sleep Tracking", "GPS", "6+ Day Battery"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "watch_004",
+    "product_title": "Amazfit GTR 4",
+    "product_image": "https://i.ibb.co/0RxfYpf3/a304e729bdd7b1b1f7fc316c4aec3201.jpg",
+    "category": "smart watch",
+    "price": 179.99,
+    "description": "Stylish smartwatch with advanced GPS tracking.",
+    "specification": ["1.43-inch AMOLED", "GPS", "150+ Sports Modes", "Alexa Built-in"],
+    "availability": false,
+    "rating": 4.2
+  },
+  {
+    "product_id": "watch_005",
+    "product_title": "Noise ColorFit Pro 4",
+    "product_image": "https://i.ibb.co/Vczh3Vkv/88c400f0c996cf46dd79b44ee6379500.jpg",
+    "category": "smart watch",
+    "price": 59.99,
+    "description": "Budget smartwatch with essential health features.",
+    "specification": ["1.72-inch Display", "SpO2", "Heart Rate", "Bluetooth Calling"],
+    "availability": true,
+    "rating": 3.9
+  },
+
+  {
+    "product_id": "macbook_001",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co/twvbBt7S/5baaeb360de9515183217628ac65f41f.jpg",
+    "category": "MacBook",
+    "price": 1199.00,
+    "description": "Ultra-thin, lightweight laptop with M2 chip.",
+    "specification": ["13.6-inch Retina", "Apple M2", "8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "macbook_002",
+    "product_title": "MacBook Pro 14-inch M3",
+    "product_image": "https://i.ibb.co/SXrfKPtR/c5a3aec374f8676898dcaf5a516c1daa.jpg",
+    "category": "MacBook",
+    "price": 1999.00,
+    "description": "Powerful MacBook for professionals.",
+    "specification": ["14-inch Liquid Retina XDR", "Apple M3", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "macbook_003",
+    "product_title": "MacBook Pro 16-inch M3 Max",
+    "product_image": "https://i.ibb.co/HTRqfBp4/b433665a58737f463eefc189988c3236.jpg",
+    "category": "MacBook",
+    "price": 3499.00,
+    "description": "Ultimate performance for creators.",
+    "specification": ["16-inch", "M3 Max", "32GB RAM", "1TB SSD"],
+    "availability": false,
+    "rating": 5.0
+  },
+  {
+    "product_id": "macbook_004",
+    "product_title": "MacBook Air M1",
+    "product_image": "https://i.ibb.co/4qSDGsw/8f5107f299c647e0b9c855540024e91a.jpg",
+    "category": "MacBook",
+    "price": 999.00,
+    "description": "Affordable and efficient with M1 chip.",
+    "specification": ["13.3-inch Retina", "Apple M1", "8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "macbook_005",
+    "product_title": "MacBook Pro 13-inch M2",
+    "product_image": "https://i.ibb.co/Dfy4JnVv/32d73581368cd654a842c18d8c22f58b.jpg",
+    "category": "MacBook",
+    "price": 1299.00,
+    "description": "Compact yet powerful with Touch Bar.",
+    "specification": ["13.3-inch Retina", "Apple M2", "8GB RAM", "256GB SSD"],
+    "availability": false,
+    "rating": 4.4
+  },
+
+  {
+    "product_id": "iphone_001",
+    "product_title": "iPhone 15",
+    "product_image": "https://i.ibb.co/5XDFVsCz/dde3e051a14eff44d1b42f5bbcfe39be.jpg",
+    "category": "iPhone",
+    "price": 799.00,
+    "description": "Latest iPhone with Dynamic Island and USB-C.",
+    "specification": ["6.1-inch OLED", "A16 Bionic", "128GB Storage", "Dual Camera"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "iphone_002",
+    "product_title": "iPhone 15 Pro",
+    "product_image": "https://i.ibb.co/pqPtV8d/15ae1f7df45fe144ef0eb1893f9ffc86.jpg",
+    "category": "iPhone",
+    "price": 999.00,
+    "description": "Titanium design and Pro features.",
+    "specification": ["6.1-inch OLED", "A17 Pro", "128GB Storage", "Triple Camera"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "iphone_003",
+    "product_title": "iPhone 14",
+    "product_image": "https://i.ibb.co/MDgXP393/fedeb61f774de660fc33e173785ebded.jpg",
+    "category": "iPhone",
+    "price": 699.00,
+    "description": "Reliable performance and camera quality.",
+    "specification": ["6.1-inch", "A15 Bionic", "128GB", "Dual Camera"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "iphone_004",
+    "product_title": "iPhone SE (2022)",
+    "product_image": "https://i.ibb.co/TMnchnD7/e60e92563792f3b280fd150f6788535a.jpg",
+    "category": "iPhone",
+    "price": 429.00,
+    "description": "Compact iPhone with Touch ID.",
+    "specification": ["4.7-inch Retina", "A15 Bionic", "64GB Storage", "Single Camera"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "iphone_005",
+    "product_title": "iPhone 13 Mini",
+    "product_image": "https://i.ibb.co/Jw2HrGBd/cc178bf55f2267a27ee0db80a5796869.jpg",
+    "category": "iPhone",
+    "price": 599.00,
+    "description": "Smallest iPhone with big power.",
+    "specification": ["5.4-inch OLED", "A15 Bionic", "128GB", "Dual Camera"],
+    "availability": false,
+    "rating": 4.5
+  }
+]

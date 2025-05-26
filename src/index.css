@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+html {
+  overflow-y: scroll;
+  background-color: rgb(247, 247, 247);
+}
+
+.active {
+  color: rgb(143, 54, 217);
+}
+
+.alradiActive{
+  color: rgb(140, 2, 252);
+  background-color: bisque;
+  border-radius: 5px;
+}
+
+.activProduct{
+  background-color:  rgb(143, 54, 217);
+  color: white;
+}
+
+.dejabold{
+  
+}
